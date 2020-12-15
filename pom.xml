@@ -8,11 +8,19 @@
         <version>2.4.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.yqx</groupId>
     <artifactId>great-tiny</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>great-tiny</name>
     <description>great-tiny</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>destiny</module>
+    </modules>
+
+
 
     <properties>
         <java.version>1.8</java.version>
@@ -29,15 +37,17 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <!--spring cloud alibaba 2.1.0.RELEASE-->
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+            <version>2.1.0.RELEASE</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+
     </dependencies>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
