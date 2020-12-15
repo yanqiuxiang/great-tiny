@@ -1,0 +1,7 @@
+#nacos相关配置
+spring:
+  #服务注册与发现配置
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 101.37.204.197:8848
