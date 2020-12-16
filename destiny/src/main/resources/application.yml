@@ -1,7 +1,10 @@
-#nacos相关配置
+server:
+  port: 8081
+
 spring:
-  #服务注册与发现配置
+  application:
+    name: nacos-server
   cloud:
     nacos:
       discovery:
-        server-addr: 101.37.204.197:8848
+        server-addr: 127.0.0.1:8848
