@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/destiny/destiny.iml" filepath="$PROJECT_DIR$/destiny/destiny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/great-tiny.iml" filepath="$PROJECT_DIR$/great-tiny.iml" />
     </modules>
   </component>

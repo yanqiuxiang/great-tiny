@@ -21,6 +21,7 @@
     <modules>
         <module>destiny</module>
         <module>client</module>
+        <module>feign</module>
     </modules>
 
     <properties>
