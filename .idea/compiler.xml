@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
+        <module name="zuul" />
         <module name="feign" />
         <module name="destiny" />
       </profile>
@@ -16,6 +17,7 @@
       <module name="destiny" target="1.8" />
       <module name="feign" target="1.8" />
       <module name="great-tiny" target="1.8" />
+      <module name="zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -24,6 +26,7 @@
       <module name="destiny" options="-parameters" />
       <module name="feign" options="-parameters" />
       <module name="great-tiny" options="-parameters" />
+      <module name="zuul" options="-parameters" />
     </option>
   </component>
 </project>
