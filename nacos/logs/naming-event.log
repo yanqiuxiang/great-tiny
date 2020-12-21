@@ -66,3 +66,7 @@
 
 2020-12-18 16:56:06,657 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 
 
+2020-12-18 17:15:38,053 INFO DEFAULT_GROUP@@nacos-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 17:15:38,053 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 192.168.0.119:8081_true,
+
