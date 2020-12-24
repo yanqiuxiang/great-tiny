@@ -2,9 +2,11 @@ package com.yqx.feign.controller;
 
 import com.yqx.feign.inte.SchedualServiceHi;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
 
 @RestController
 public class HiController {
@@ -16,6 +18,7 @@ public class HiController {
 
 	@GetMapping(value = "/hello")
 	public String sayHi(@RequestParam String name) {
-		return schedualServiceHi.sayHiFromClientOne(name);
+		return "[8083]"+schedualServiceHi.sayHiFromClientOne(name);
 	}
+
 }

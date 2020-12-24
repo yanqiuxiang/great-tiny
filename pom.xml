@@ -22,6 +22,7 @@
         <module>destiny</module>
         <module>client</module>
         <module>feign</module>
+        <module>zuul</module>
     </modules>
 
     <properties>

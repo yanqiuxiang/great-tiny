@@ -8,6 +8,7 @@ import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.client.loadbalancer.LoadBalancerClient;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
@@ -38,13 +39,14 @@ public class ClientApplication {
 		 * 修改描述：
 		 * 修改时间：
 		 */
-		@GetMapping("/test")
-		public String test(){
+		@GetMapping("/hello")
+		public String test(@RequestParam String name){
 			ServiceInstance serviceInstance = loadBalancerClient.choose("nacos-server");
-			String url = serviceInstance.getUri() + "/hello?name=" + "zhangsan";
+			String url = serviceInstance.getUri() + "/hello?name=" + name;
 			RestTemplate restTemplate = new RestTemplate();
 			String result = restTemplate.getForObject(url, String.class);
-			return "Invoke : " + url + ", return : " + result;
+			//return "Invoke : " + url + ", return : " + result;
+			return  "[8082]"+result;
 		}
 	}
 }
