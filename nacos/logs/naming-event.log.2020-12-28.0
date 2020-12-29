@@ -1,0 +1,252 @@
+2020-12-28 09:55:35,397 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 09:55:35,399 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 10:59:30,813 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 10:59:30,813 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 10:59:48,914 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 10:59:48,914 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 11:29:29,138 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 11:29:29,138 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 11:31:29,258 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 11:31:29,258 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 11:32:56,699 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 11:32:56,699 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 11:34:29,168 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 11:34:29,168 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 13:52:21,350 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 13:52:21,350 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 13:57:40,698 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 13:57:40,698 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 14:41:14,658 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 14:41:14,659 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 14:44:20,826 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 14:44:20,826 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 14:51:15,921 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 14:51:15,921 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 15:05:41,002 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 15:05:41,002 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 15:49:53,620 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 15:49:53,620 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 15:50:13,072 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 15:50:13,072 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 15:53:42,148 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 15:53:42,148 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 15:57:14,891 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 15:57:14,891 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 16:00:19,692 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 16:00:19,692 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 16:02:57,355 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 16:02:57,355 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 16:04:24,810 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 16:04:24,810 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 16:09:39,866 INFO {POS} {IP-DISABLED} valid: 192.168.0.119:8080@DEFAULT@DEFAULT_GROUP@@zhc-web, region: unknown, msg: client timeout after 15000, last beat: 1609142962181
+
+2020-12-28 16:09:43,603 INFO service: DEFAULT_GROUP@@zhc-web {POS} {IP-ENABLED} valid: 192.168.0.119:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2020-12-28 16:13:59,635 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 16:13:59,635 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 16:15:06,983 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 16:15:06,983 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 16:39:37,705 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 16:39:37,705 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 16:39:39,849 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 16:39:39,849 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 16:48:55,894 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 16:48:55,894 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 17:04:00,449 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:04:00,449 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 17:08:42,294 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:08:42,294 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 17:14:23,861 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:14:23,861 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:18:41,075 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:18:41,075 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 17:20:14,983 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:20:14,983 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:20:27,567 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:20:27,567 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:21:23,770 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:21:23,770 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 17:21:58,747 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:21:58,747 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:22:24,803 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:22:24,803 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:24:30,802 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:24:30,802 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:25:32,557 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:25:32,557 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:28:06,104 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:28:06,104 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:28:07,500 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:28:07,500 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 17:30:34,569 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:30:34,569 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 17:31:23,851 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:31:23,852 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:38:12,715 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:38:12,715 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:40:19,556 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:40:19,556 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:41:55,150 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:41:55,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:43:11,128 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:43:11,128 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 17:43:22,708 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:43:22,708 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 17:43:57,094 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:43:57,094 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:45:05,664 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:45:05,664 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:45:08,844 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:45:08,844 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 17:47:06,628 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:47:06,628 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 17:47:59,455 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:47:59,455 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:48:44,979 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:48:44,979 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:49:48,435 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:49:48,436 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 17:56:03,270 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:56:03,270 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 17:56:06,392 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:56:06,392 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 17:58:36,036 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:58:36,036 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 17:59:26,279 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:59:26,279 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 17:59:36,914 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 17:59:36,914 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 18:01:03,954 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 18:01:03,954 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+
+2020-12-28 18:01:15,716 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 18:01:15,716 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 192.168.0.119:8093_true,
+
+2020-12-28 18:01:39,305 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 18:01:39,306 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 192.168.0.119:8080_true,
+
+2020-12-28 18:04:27,256 INFO DEFAULT_GROUP@@zhc-web {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 18:04:27,256 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-web, ips: 
+
+2020-12-28 18:04:29,803 INFO DEFAULT_GROUP@@zhc-wares {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8093:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-28 18:04:29,803 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@zhc-wares, ips: 
+

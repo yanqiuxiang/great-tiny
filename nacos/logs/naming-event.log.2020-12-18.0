@@ -1,0 +1,72 @@
+2020-12-18 14:47:03,462 INFO DEFAULT_GROUP@@nacos-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 14:47:03,466 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 192.168.0.119:8081_true,
+
+2020-12-18 14:57:24,826 INFO DEFAULT_GROUP@@feign {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8083:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 14:57:24,826 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@feign, ips: 192.168.0.119:8083_true,
+
+2020-12-18 15:24:10,875 INFO DEFAULT_GROUP@@nacos-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 15:24:10,876 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-client, ips: 192.168.0.119:8082_true,
+
+2020-12-18 15:25:20,988 INFO DEFAULT_GROUP@@nacos-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 15:25:20,988 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-client, ips: 
+
+2020-12-18 15:26:34,872 INFO DEFAULT_GROUP@@nacos-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 15:26:34,872 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-client, ips: 192.168.0.119:8082_true,
+
+2020-12-18 15:28:24,975 INFO DEFAULT_GROUP@@nacos-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 15:28:24,976 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-client, ips: 
+
+2020-12-18 15:30:10,196 INFO DEFAULT_GROUP@@nacos-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 15:30:10,196 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-client, ips: 192.168.0.119:8082_true,
+
+2020-12-18 15:35:31,396 INFO DEFAULT_GROUP@@feign {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8083:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 15:35:31,396 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@feign, ips: 
+
+2020-12-18 15:37:18,289 INFO DEFAULT_GROUP@@nacos-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 15:37:18,289 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-client, ips: 
+
+2020-12-18 16:02:57,571 INFO DEFAULT_GROUP@@nacos-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 16:02:57,571 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-client, ips: 192.168.0.119:8082_true,
+
+2020-12-18 16:09:29,022 INFO DEFAULT_GROUP@@nacos-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 16:09:29,022 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-client, ips: 
+
+2020-12-18 16:41:28,150 INFO DEFAULT_GROUP@@nacos-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 16:41:28,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 
+
+2020-12-18 16:51:00,983 INFO DEFAULT_GROUP@@nacos-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 16:51:00,983 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 192.168.0.119:8081_true,
+
+2020-12-18 16:52:26,482 INFO DEFAULT_GROUP@@nacos-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 16:52:26,482 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 
+
+2020-12-18 16:52:36,275 INFO DEFAULT_GROUP@@nacos-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 16:52:36,275 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 192.168.0.119:8081_true,
+
+2020-12-18 16:53:55,391 INFO DEFAULT_GROUP@@feign {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8083:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 16:53:55,391 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@feign, ips: 192.168.0.119:8083_true,
+
+2020-12-18 16:56:06,657 INFO DEFAULT_GROUP@@nacos-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 16:56:06,657 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 
+
+2020-12-18 17:15:38,053 INFO DEFAULT_GROUP@@nacos-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-12-18 17:15:38,053 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-server, ips: 192.168.0.119:8081_true,
+

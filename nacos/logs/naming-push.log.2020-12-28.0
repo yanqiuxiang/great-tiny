@@ -1,0 +1,170 @@
+2020-12-28 09:55:36,400 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 10:59:31,814 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 10:59:49,915 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 11:29:30,139 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 11:31:30,260 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 11:32:57,699 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 11:34:30,169 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 13:52:22,351 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 13:57:41,699 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 14:41:15,660 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 14:44:21,832 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 14:51:16,923 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 15:05:42,003 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 15:49:54,621 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 15:50:14,075 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 15:53:43,150 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 15:57:15,895 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 16:00:20,693 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 16:02:58,356 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 16:04:25,811 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 16:09:40,867 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 16:09:44,605 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 16:14:00,637 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 16:15:07,985 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 16:39:38,707 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 16:39:38,709 INFO serviceName: DEFAULT_GROUP@@zhc-wares changed, schedule push for: 192.168.0.119:63739, agent: Nacos-Java-Client:v1.2.1, key: 192.168.0.119,63739,28155725737200
+
+2020-12-28 16:39:38,710 INFO send udp packet: 192.168.0.119,63739,28155725737200
+
+2020-12-28 16:39:38,721 INFO received ack: {"type": "push-ack", "lastRefTime":"28155725737200", "data":""} from: 192.168.0.119:, cost: 63739 ms, unacked: 11, total push: 0
+
+2020-12-28 16:39:40,851 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 16:48:56,895 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:04:01,450 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:08:43,296 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:14:24,862 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:18:42,077 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:18:42,077 INFO serviceName: DEFAULT_GROUP@@zhc-wares changed, schedule push for: 192.168.0.119:53124, agent: Nacos-Java-Client:v1.2.1, key: 192.168.0.119,53124,30499094454200
+
+2020-12-28 17:18:42,077 INFO send udp packet: 192.168.0.119,53124,30499094454200
+
+2020-12-28 17:18:42,080 INFO received ack: {"type": "push-ack", "lastRefTime":"30499094454200", "data":""} from: 192.168.0.119:, cost: 53124 ms, unacked: 3, total push: 0
+
+2020-12-28 17:20:15,985 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:20:28,569 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:21:24,771 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:21:24,771 INFO serviceName: DEFAULT_GROUP@@zhc-wares changed, schedule push for: 192.168.0.119:52949, agent: Nacos-Java-Client:v1.2.1, key: 192.168.0.119,52949,30661789582600
+
+2020-12-28 17:21:24,771 INFO send udp packet: 192.168.0.119,52949,30661789582600
+
+2020-12-28 17:21:24,778 INFO received ack: {"type": "push-ack", "lastRefTime":"30661789582600", "data":""} from: 192.168.0.119:, cost: 52949 ms, unacked: 7, total push: 0
+
+2020-12-28 17:21:59,749 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:22:25,804 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:24:31,803 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:25:33,558 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:28:07,105 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:28:08,502 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:28:08,502 INFO serviceName: DEFAULT_GROUP@@zhc-wares changed, schedule push for: 192.168.0.119:60838, agent: Nacos-Java-Client:v1.2.1, key: 192.168.0.119,60838,31065520053500
+
+2020-12-28 17:28:08,502 INFO send udp packet: 192.168.0.119,60838,31065520053500
+
+2020-12-28 17:28:18,503 INFO retry to push data, key: 192.168.0.119,60838,31065520053500
+
+2020-12-28 17:28:18,503 INFO send udp packet: 192.168.0.119,60838,31065520053500
+
+2020-12-28 17:28:28,506 INFO retry to push data, key: 192.168.0.119,60838,31065520053500
+
+2020-12-28 17:28:28,506 WARN max re-push times reached, retry times 2, key: 192.168.0.119,60838,31065520053500
+
+2020-12-28 17:30:35,570 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:31:24,854 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:38:13,716 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:40:20,558 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:41:56,151 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:43:12,130 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:43:23,709 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:43:58,095 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:45:06,664 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:45:09,845 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:47:07,630 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:48:00,456 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:48:45,981 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:49:49,437 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:56:04,272 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 17:56:07,394 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:58:37,037 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:59:27,280 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 17:59:37,916 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 18:01:04,955 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 18:01:16,717 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 18:01:40,308 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 18:04:28,258 INFO DEFAULT_GROUP@@zhc-web is changed, add it to push queue.
+
+2020-12-28 18:04:30,804 INFO DEFAULT_GROUP@@zhc-wares is changed, add it to push queue.
+
+2020-12-28 18:04:30,804 INFO serviceName: DEFAULT_GROUP@@zhc-wares changed, schedule push for: 192.168.0.119:51554, agent: Nacos-Java-Client:v1.2.1, key: 192.168.0.119,51554,33247821738200
+
+2020-12-28 18:04:30,804 INFO send udp packet: 192.168.0.119,51554,33247821738200
+
+2020-12-28 18:04:40,805 INFO retry to push data, key: 192.168.0.119,51554,33247821738200
+
+2020-12-28 18:04:40,805 INFO send udp packet: 192.168.0.119,51554,33247821738200
+
+2020-12-28 18:04:50,807 INFO retry to push data, key: 192.168.0.119,51554,33247821738200
+
+2020-12-28 18:04:50,807 WARN max re-push times reached, retry times 2, key: 192.168.0.119,51554,33247821738200
+

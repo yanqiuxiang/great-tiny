@@ -49,5 +49,4 @@ public class MyFilter extends ZuulFilter {
 		log.info("ok");
 		return null;
 	}
-
 }
